@@ -35,7 +35,7 @@ To add a new book, simply change the title of the notebook on the first page. To
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/2sCmWmOGqMY).
+Click the images above or watch the demo video on [YouTube]().
 
 
 ## Tech Stack

@@ -17,7 +17,6 @@ To add a new book, simply change the title of the notebook on the first page. To
 - Rename and store as seperate books.
 - Add, edit, delete, and save notes.
 - Maximize the width of a note to have a better view.
-- Access your notes even if you close the browser or clear your cookies.
 
 #### How to use:
 
@@ -35,7 +34,7 @@ To add a new book, simply change the title of the notebook on the first page. To
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/SCX0O3LJfl8).
 
 
 ## Tech Stack

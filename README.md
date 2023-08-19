@@ -52,4 +52,6 @@ Watch the demo video on [YouTube](https://youtu.be/SCX0O3LJfl8).
 
 **IDE:** Visual Studio Code
 
+#### Visit Website: https://note-book-kvs.netlify.app/
+
 
